@@ -1,0 +1,123 @@
+.box {
+    border-top: 1rem;
+    border-radius: none;
+    padding-top: 37.3rem;
+    padding-left: 50rem;
+    height: 39.4rem;
+    width: 89rem;
+    background: linear-gradient(rgb(255, 51, 85), rgb(88, 49, 166));
+}
+.menu {
+    position: absolute;
+    top: 10rem;
+    left: 10rem;
+    height: 32rem;
+    width: 80rem;
+    padding-top: 25rem;
+    padding-left: 40rem;
+    background-color: rgb(219, 222, 57);
+    box-shadow: 15px 5px 50px black;
+}
+
+.menu__five {
+    position: absolute;
+    left: 16rem;
+    top: 18rem;
+    height: 15rem;
+    width: 85rem;
+    padding-left: 5rem;
+    padding-top: 5rem;
+    border-radius: 10rem;
+    background-color: white;
+    color: rgb(100, 92, 87);
+    box-shadow: 15px 5px 50px black;
+}
+
+.btn__cross {
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 5rem;
+    border: none;
+    background-color: transparent;
+    color: rgb(255, 121, 167);
+    cursor: pointer;
+}
+
+.home {
+    position: absolute;
+    top: 8rem;
+    padding-top: 5px;
+    padding-left: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.home:hover {
+    cursor: pointer;
+    color: red;
+    transition-duration: 0.3s;
+}
+
+.about {
+    position: absolute;
+    top: 8rem;
+    left: 23rem;
+    padding-top: 5px;
+    padding-left: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.about:hover {
+    cursor: pointer;
+    color: red;
+    transition-duration: 0.3s;
+}
+
+.cursos {
+    position: absolute;
+    top: 8rem;
+    right: 43rem;
+    padding-top: 5px;
+    padding-left: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.cursos:hover {
+    cursor: pointer;
+    color: red;
+    transition-duration: 0.3s;
+}
+
+.blog {
+    position: absolute;
+    top: 8rem;
+    right: 30rem;
+    padding-top: 5px;
+    padding-left: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.blog:hover {
+    cursor: pointer;
+    color: red;
+    transition-duration: 0.3s;
+}
+
+.contactos {
+    position: absolute;
+    top: 8rem;
+    right: 10rem;
+    padding-top: 5px;
+    padding-left: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.contactos:hover {
+    cursor: pointer;
+    color: red;
+    transition-duration: 0.3s;
+}
